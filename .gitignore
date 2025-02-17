@@ -1,0 +1,3 @@
+nodemodules/
+.env 
+MONGODB_URI = mongodb+srv://waddahdaker:<7SpM0VbQ7xC5JB1H>@cluster0.x6kbg.mongodb.net/
